@@ -4,9 +4,9 @@ on:
   ### Descomenta el disparador «push» si quieres que la 
   ### implementación se realice automáticamente cuando se 
   ### envíen cambios a la rama principal.
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 run-name: Deploying branch ${{ github.ref_name }}
