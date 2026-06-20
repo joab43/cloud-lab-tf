@@ -12,8 +12,8 @@ resource_group_name = ""
 location            = ""
 
 ##### Variables - Storage Account RAC #####
-storage_account_name  = ""
-container_name        = ""
+storage_account_name  = "rg-utpdavid2026-user6-cc"
+container_name        = "eastus2"
 container_access_type = "private" #
 
 ##### Variables - Key Vault del RAC #####
