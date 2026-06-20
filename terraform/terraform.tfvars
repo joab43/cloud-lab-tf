@@ -32,5 +32,5 @@ openai_model_version   = "2025-08-07"
 openai_scale_capacity  = 1
 
 ##### Variables - Azure AI Foundry (Hub/Proj) #####
-ai_foundry_hub_name     = ""
-ai_foundry_project_name = ""
+ai_foundry_hub_name     = "yorch-foundy-lab"
+ai_foundry_project_name = "foundry-project-lab"
