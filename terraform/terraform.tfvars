@@ -12,18 +12,18 @@ resource_group_name = "rg-utpdavid2026-user6-cc"
 location            = "eastus2"
 
 ##### Variables - Storage Account RAC #####
-storage_account_name  = ""
-container_name        = ""
+storage_account_name  = "stgyorchutpch2026"
+container_name        = "ct-yorch-lab"
 container_access_type = "private" #
 
 ##### Variables - Key Vault del RAC #####
-key_vault_name = ""
+key_vault_name = "calvesupersegura-12-12"
 key_vault_sku  = "standard" # ejemplo: "standard"
 
 
 ##### Variables - Azure AI Services (Cognitive) #####
-ai_services_name                  = ""
-ai_services_custom_subdomain_name = ""
+ai_services_name                  = "ai-services-yorch-utpdavid"
+ai_services_custom_subdomain_name = "ai-yorch-david"
 
 ##### Variables - Azure OpenAI (modelo) #####
 openai_deployment_name = "gpt5nano"
