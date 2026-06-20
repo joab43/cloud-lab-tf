@@ -13,7 +13,7 @@ location            = "eastus2"
 
 ##### Variables - Storage Account RAC #####
 storage_account_name  = "stgyorchutpch2026"
-container_name        = "ct-yorch-lab"
+container_name        = "ctyorchlab"
 container_access_type = "private" #
 
 ##### Variables - Key Vault del RAC #####
