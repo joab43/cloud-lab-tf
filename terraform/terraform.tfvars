@@ -8,12 +8,12 @@ tags = {
 }
 
 ##### Variables - Resource Group RAC #####
-resource_group_name = ""
-location            = ""
+resource_group_name = "rg-utpdavid2026-user6-cc"
+location            = "eastus2"
 
 ##### Variables - Storage Account RAC #####
-storage_account_name  = "rg-utpdavid2026-user6-cc"
-container_name        = "eastus2"
+storage_account_name  = ""
+container_name        = ""
 container_access_type = "private" #
 
 ##### Variables - Key Vault del RAC #####
