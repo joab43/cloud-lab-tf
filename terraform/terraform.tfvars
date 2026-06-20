@@ -17,7 +17,7 @@ container_name        = "ct-yorch-lab"
 container_access_type = "private" #
 
 ##### Variables - Key Vault del RAC #####
-key_vault_name = "calvesupersegura-12-12"
+key_vault_name = "calvesegura-12-12"
 key_vault_sku  = "standard" # ejemplo: "standard"
 
 
